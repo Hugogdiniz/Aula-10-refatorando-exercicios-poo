@@ -1,0 +1,15 @@
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\bin\Debug\net6.0\aula10refatoracao_aula08.exe
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\bin\Debug\net6.0\aula10refatoracao_aula08.deps.json
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\bin\Debug\net6.0\aula10refatoracao_aula08.runtimeconfig.json
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\bin\Debug\net6.0\aula10refatoracao_aula08.dll
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\bin\Debug\net6.0\aula10refatoracao_aula08.pdb
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.csproj.AssemblyReference.cache
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.AssemblyInfoInputs.cache
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.AssemblyInfo.cs
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.csproj.CoreCompileInputs.cache
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.dll
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\refint\aula10refatoracao_aula08.dll
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.pdb
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\aula10refatoracao_aula08.genruntimeconfig.cache
+C:\Users\hugod\Documents\Treinamento ME\C#\aula10refatoracao_aula08\obj\Debug\net6.0\ref\aula10refatoracao_aula08.dll
