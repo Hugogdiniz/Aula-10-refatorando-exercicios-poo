@@ -2,6 +2,6 @@
 
 # Colaboradores
 
-[### Carla Rani](https://github.com/carlarani)
-[### Hugo Diniz](https://github.com/Hugogdiniz)
-[### Luan Victor](https://github.com/LuanME)
+[### Carla Rani](https://github.com/carlarani)  
+[### Hugo Diniz](https://github.com/Hugogdiniz)  
+[### Luan Victor](https://github.com/LuanME)  
